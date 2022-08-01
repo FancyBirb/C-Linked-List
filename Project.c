@@ -1,5 +1,3 @@
-//Name: Domenic Bartha 								 Mtr-Nr: 813646
-
 #include <stdio.h>
 #include <stdlib.h>
 
